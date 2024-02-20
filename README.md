@@ -1,4 +1,4 @@
-# ytPythonDownalerTkinter
+# Youtube Python Downloader Tkinter
 Youtube Python Downloader Interface
 
 The first entry you put the link of your video.
